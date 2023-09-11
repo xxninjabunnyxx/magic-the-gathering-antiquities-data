@@ -1,0 +1,109 @@
+---
+object: card
+id: 6eab6765-eba3-4844-81ca-ae37a6e903df
+oracle_id: dbe792f9-22be-4972-b418-99a6190c4421
+multiverse_ids:
+- 1047
+tcgplayer_id: 3330
+cardmarket_id: 6929
+name: Transmute Artifact
+lang: en
+released_at: '1994-03-04'
+uri: https://api.scryfall.com/cards/6eab6765-eba3-4844-81ca-ae37a6e903df
+scryfall_uri: https://scryfall.com/card/atq/14/transmute-artifact?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256
+  normal: https://cards.scryfall.io/normal/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256
+  large: https://cards.scryfall.io/large/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256
+  png: https://cards.scryfall.io/png/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.png?1562918256
+  art_crop: https://cards.scryfall.io/art_crop/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256
+  border_crop: https://cards.scryfall.io/border_crop/front/6/e/6eab6765-eba3-4844-81ca-ae37a6e903df.jpg?1562918256
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Sacrifice an artifact. If you do, search your library for an artifact
+  card. If that card's mana value is less than or equal to the sacrificed artifact's
+  mana value, put it onto the battlefield. If it's greater, you may pay {X}, where
+  X is the difference. If you do, put it onto the battlefield. If you don't, put it
+  into its owner's graveyard. Then shuffle.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 819f9678-87dd-4aba-a47b-2d553bfea21f
+set: atq
+set_name: Antiquities
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/819f9678-87dd-4aba-a47b-2d553bfea21f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aatq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/atq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6eab6765-eba3-4844-81ca-ae37a6e903df/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adbe792f9-22be-4972-b418-99a6190c4421&unique=prints
+collector_number: '14'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: a70ea4e2-45c7-40e5-a21e-37e6c9c89e0f
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3837
+prices:
+  usd: '251.31'
+  usd_foil: 
+  usd_etched: 
+  eur: '182.47'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1047
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Transmute+Artifact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Transmute+Artifact&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Transmute+Artifact
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3330?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Transmute+Artifact&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Transmute+Artifact&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

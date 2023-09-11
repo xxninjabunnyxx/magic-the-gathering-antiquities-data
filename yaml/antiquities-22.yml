@@ -1,0 +1,109 @@
+---
+object: card
+id: 1506d99d-7b2e-4101-84a5-c950dadb263a
+oracle_id: 2d4aedc5-31c5-4281-98e1-b0c2233c3c8a
+multiverse_ids:
+- 1057
+tcgplayer_id: 3258
+cardmarket_id: 6958
+name: Artifact Blast
+lang: en
+released_at: '1994-03-04'
+uri: https://api.scryfall.com/cards/1506d99d-7b2e-4101-84a5-c950dadb263a
+scryfall_uri: https://scryfall.com/card/atq/22/artifact-blast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.jpg?1562899411
+  normal: https://cards.scryfall.io/normal/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.jpg?1562899411
+  large: https://cards.scryfall.io/large/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.jpg?1562899411
+  png: https://cards.scryfall.io/png/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.png?1562899411
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.jpg?1562899411
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/1506d99d-7b2e-4101-84a5-c950dadb263a.jpg?1562899411
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Counter target artifact spell.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 819f9678-87dd-4aba-a47b-2d553bfea21f
+set: atq
+set_name: Antiquities
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/819f9678-87dd-4aba-a47b-2d553bfea21f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aatq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/atq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1506d99d-7b2e-4101-84a5-c950dadb263a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2d4aedc5-31c5-4281-98e1-b0c2233c3c8a&unique=prints
+collector_number: '22'
+digital: false
+rarity: common
+flavor_text: The first line of defense against Urza and Mishra, the Artifact Blast
+  achieved widespread fame until an unlucky mage discovered it was useless on the
+  devices the brothers had already created.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: fa0bf6f7-7f6e-4edf-b29e-dc6a691aa3eb
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15618
+penny_rank: 10946
+prices:
+  usd: '1.23'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.35'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1057
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Artifact+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Artifact+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Artifact+Blast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3258?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Artifact+Blast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Artifact+Blast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

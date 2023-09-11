@@ -1,0 +1,112 @@
+---
+object: card
+id: 067c44e9-1b23-42fd-9acb-daafb62c32a2
+oracle_id: 9be9625e-b98b-416b-aac4-9f7b2dfbd39d
+multiverse_ids:
+- 1002
+tcgplayer_id: 3272
+cardmarket_id: 6882
+name: Colossus of Sardia
+lang: en
+released_at: '1994-03-04'
+uri: https://api.scryfall.com/cards/067c44e9-1b23-42fd-9acb-daafb62c32a2
+scryfall_uri: https://scryfall.com/card/atq/46/colossus-of-sardia?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386
+  normal: https://cards.scryfall.io/normal/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386
+  large: https://cards.scryfall.io/large/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386
+  png: https://cards.scryfall.io/png/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.png?1562896386
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/067c44e9-1b23-42fd-9acb-daafb62c32a2.jpg?1562896386
+mana_cost: "{9}"
+cmc: 9.0
+type_line: Artifact Creature — Golem
+oracle_text: |-
+  Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+  Colossus of Sardia doesn't untap during your untap step.
+  {9}: Untap Colossus of Sardia. Activate only during your upkeep.
+power: '9'
+toughness: '9'
+colors: []
+color_identity: []
+keywords:
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 819f9678-87dd-4aba-a47b-2d553bfea21f
+set: atq
+set_name: Antiquities
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/819f9678-87dd-4aba-a47b-2d553bfea21f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aatq&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/atq?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/067c44e9-1b23-42fd-9acb-daafb62c32a2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9be9625e-b98b-416b-aac4-9f7b2dfbd39d&unique=prints
+collector_number: '46'
+digital: false
+rarity: rare
+flavor_text: 'From the Sardian mountains wakes ancient doom: Warrior born from a rocky
+  womb.'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: e5c3ff00-a575-4605-9602-a7a62c836217
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18860
+penny_rank: 3878
+prices:
+  usd: '55.14'
+  usd_foil: 
+  usd_etched: 
+  eur: '23.31'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1002
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Colossus+of+Sardia&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Colossus+of+Sardia&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Colossus+of+Sardia
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3272?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Colossus+of+Sardia&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Colossus+of+Sardia&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
